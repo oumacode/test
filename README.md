@@ -10,6 +10,9 @@ The course goes through various topics such as: basic Git & GitHub, advanced
 HTML/CSS, JavaScript, React, Node.js and more (You can pick Ruby's path and
 learn Ruby on Rails instead of focusing on JavaScript only).
 
+- NOTE: To navigate around the subjects go to `All Paths` -> `Explore` whatever
+Path -> `Open Course` a course you want to peek at.
+
 [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) is provides
 a structured guide to the essential skills and practices for being a
 successful front-end developer, along with recommended learning resources.
