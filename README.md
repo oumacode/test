@@ -51,3 +51,6 @@ your IDE.
 Is a good playlist to start, from the one and only Harvard university, so you
 know it good.
 
+## Other skills & tools:
+[typing.com](https://www.typing.com/) has some good free lessons to learn how
+to type properly and use all you fingers.
