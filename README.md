@@ -32,6 +32,10 @@ for the topics that interest you if you want to peek at it.
 [Setting Up A React Environment](https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment)
 and more)
 
+[Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) Is a great
+YouTube channel to learn more about web technologies.
+He is a great guy, and the videos are fast passed but understandable.
+
 ## Vim:
 [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) is a great guy and a
 software engineer, EXFAANG BTW.
