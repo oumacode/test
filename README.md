@@ -61,6 +61,10 @@ to type properly and use all you fingers.
 
 ## Introduction to Git:
 [Getting started with Git](https://youtu.be/USjZcfj8yxE?si=VXmfVEDaL_jhalHX) 
+## React:
+[video](https://youtu.be/Rh3tobg7hEo?si=tWrJ6DGWjqWwT42m)
+[playlist](https://youtube.com/playlist?list=PLNZOdJU1xpb3nK4nR7mpZ-ihu9EBaMIc8&si=fqaFsGrJjm1ptp0t)
+the most important concepts you need in React.
 
 
 
